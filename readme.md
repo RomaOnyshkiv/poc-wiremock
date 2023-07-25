@@ -1,0 +1,1 @@
+Wiremock added as maven dependency, and will be started before test. Also, before method will be created response
